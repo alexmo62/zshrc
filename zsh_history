@@ -1,0 +1,1152 @@
+: 1730031594:8;sudo pacman -S htop
+: 1730032382:31;sudo pacman -S feh
+: 1730035967:11;wget https://mega.nz/linux/repo/Arch_Extra/x86_64/megasync-x86_64.pkg.tar.zst && sudo pacman -U "$PWD/megasync-x86_64.pkg.tar.zst"\
+
+: 1730035986:0;mega
+: 1730037272:0;sudo pacman -Sy
+: 1730037361:3;sudo pacman -S cups
+: 1730037376:7;sudo pacman -S hplip\
+
+: 1730037486:59;hp-setup -i
+: 1730037642:25;yay -S clipit\
+
+: 1730039152:4;sudo pacman -S XpdfReader
+: 1730039219:3;sudo pacman -S evince
+: 1730039355:3;sudo pacman -S clipman
+: 1730039732:0;clipman
+: 1730039564:8;sudo pacman -S klipper
+: 1730039594:0;klipper
+: 1730039626:0;clipit
+: 1730040254:8;sudo pacman -R firefox
+: 1730040365:2;sudo pacman -R xpdf
+: 1730042657:6;sudo pacman -S flameshot
+: 1730043889:9;sudo pacman -S yay nerd-fonts\
+
+: 1730043898:0;x
+: 1730044057:0;sudo pacman -S gufw
+: 1730045799:0;/etc/ufw/ufw.conf
+: 1730045836:4;sudo /etc/ufw/ufw.conf
+: 1730045850:33;nano sudo /etc/ufw/ufw.conf
+: 1730046095:5;systemctl start ufw.service
+: 1730046117:5;systemctl enable ufw
+: 1730046304:8;gufw
+: 1730047322:22;sudo pacman -S wine
+: 1730048139:0;pacman -Qst
+: 1730048260:4;sudo pacman -Qs query
+: 1730048275:0;sudo pacman -Qs wine
+: 1730048293:0;sudo pacman -Qs wireshark
+: 1730048313:0;sudo pacman -Qs clipit
+: 1730048332:0;sudo pacman -Qs gimp
+: 1730048470:1;sudo pacman -S clpgrab
+: 1730048480:5;sudo pacman -S clipgrab
+: 1730048509:1;sudo pacman -Qs mp
+: 1730048695:3;sudo pacman -S mpv
+: 1730048734:0;sudo pacman -Qs mpv
+: 1730048743:0;sudo pacman -Qs clipgrab
+: 1730048763:0;sudo pacman -Qs htop
+: 1730048778:0;sudo pacman -Qs gufw
+: 1730048790:0;sudo pacman -Qs pakseek
+: 1730051311:4;sudo pacman -S clipit
+: 1730051326:0;yay nerd-fonts\
+
+: 1730051450:35;yay -S clipit
+: 1730051527:9;yay -S make
+: 1730056147:0;/home/alexpad/MEGA/windows/DesetiPrsty/DesetiPrsty.exe
+: 1730056660:13;yay -S terminator
+: 1730064493:0;lb
+: 1730107424:7;sudo pacman -S etherape
+: 1730108131:0;sudo pacman -S zenmap
+: 1730108144:3;sudo pacman -S nmap
+: 1730107866:18;ping novinky.cz
+: 1730107932:0;https://trade.consultnovo.com/d/account
+: 1730107944:0;ping https://trade.consultnovo.com/d/account
+: 1730107953:0;ping https://trade.consultnovo.com
+: 1730107971:72;ping trade.consultnovo.com
+: 1730108891:322;sudo etherape
+: 1730110450:0;./install-sh
+: 1730110492:0;install
+: 1730110629:2;./autogen.sh
+: 1730129265:0;cd Sta≈æen√©/betterlockscreen-betterlockscreen-bdfc4fa
+: 1730129357:0;./install.sh
+: 1730129393:0;./configure
+: 1730129721:0;wget https://raw.githubusercontent.com/betterlockscreen/betterlockscreen/main/install.sh -O - -q | bash -s user~
+: 1730123461:0;htop
+: 1730129055:5;sudo pacman -S betterlockerscreen
+: 1730130102:0;betterlockscreen
+: 1730133648:5;sudo systemctl enable betterlockscreen.service --now
+: 1730133881:0;cp betterlockscreen@.service /usr/lib/systemd/system/
+: 1730133905:6;systemctl enable betterlockscreen@$USER
+: 1730140066:1;sudo pacman -Ss
+: 1730140105:0;pacman -Qst betterlockscreen
+: 1730140120:0;pacman -Qs betterlockscreen
+: 1730140554:0;df
+: 1730140623:0;df -a
+: 1730140629:0;df -l
+: 1730140742:0;df -m
+: 1730140755:0;df -all
+: 1730140788:0;df -k
+: 1730141278:0;pacman -Qs fd
+: 1730141394:12;sudo pacman -Syu fd
+: 1730141418:0;fd ≈ÉÅkola
+: 1730141473:1;fd julinka
+: 1730141494:0;fd stanojeviƒÉ≠
+: 1730141500:0;fd stano
+: 1730141511:0;fd consultnovo
+: 1730141604:0;cd MEGA/osobni/2022
+: 1730141645:0;cd kb\ 17_1_22
+: 1730315362:6;sudo pacman -S iftop
+: 1730315377:95;sudo iftop
+: 1730388619:1;fd amundi\ kb.pdf
+: 1730388748:0;sudo iftop -i wlan0
+: 1730472726:0;man feh
+: 1730482298:4;sudo swapoff -a
+: 1730482312:0;sudo swapon -a
+: 1730482326:0;swapoff -a && swapon -a
+: 1730483627:235;sudo wireshark
+: 1730809729:43;sudo ranger
+: 1731081927:8;betterlockscreen -l
+: 1731083242:5;sudo timeshift --list
+: 1731083272:6;sudo timeshift --check
+: 1731083161:0;root
+: 1731421018:11;sudo pacman -S w3m\
+
+: 1731490727:5;sudo pacman -Qs
+: 1731491058:0;sudo pacman -Q
+: 1731491086:2;sudo pacman -S w3m
+: 1731491331:10;sudo pacman -Qs w3m
+: 1731522319:5;sudo pacman -Qs urxvt
+: 1731789979:0;cd bashmount-master
+: 1731836642:5;sudo pacman -Qs ranger
+: 1731836874:8;sudo pacman -S ueberzug\
+
+: 1731837033:12;sudo pacman -S ueberzug
+: 1731837242:4;sudo pacman -S ueberzug 18.2.3-1\
+
+: 1731837267:1;sudo pacman -S ueberzug 18.2.3
+: 1731837723:6;sudo pacman -S github
+: 1731837832:0;github https://github.com/ueber-devel/ueberzug.git
+: 1731837962:1;wget https://github.com/ueber-devel/ueberzug.git
+: 1731838316:7;sudo pacman -S git
+: 1731838335:0;git https://github.com/ueber-devel/ueberzug.git
+: 1731838478:1;git clone https://github.com/ueber-devel/ueberzug.git
+: 1731838598:0;python -m build\
+
+: 1731838839:0;python -m build
+: 1731838916:0;cd ueberzug
+: 1731838922:5;python -m build\
+pip3 install dist/ueberzug-18.3.0-cp312-cp312-linux_x86_64.whl
+: 1731838619:5;sudo pacman -S pip3
+: 1731838728:0;sudo pacman -S python -m pip3 install --upgrade pip
+: 1731838735:0;sudo pacman -S python -m pip3 install
+: 1731838807:3;sudo pacman -S python
+: 1731839581:10;sudo pacman -R ueberzug\
+
+: 1731840355:10;sudo pacman -S python-pip
+: 1731840398:0;wget -q https://bootstrap.pypa.io/get-pip.py
+: 1731840412:2;python get-pip.py
+: 1731840477:0;pacman -S python-xyz
+: 1731840498:0;sudo pacman -S python-xyz
+: 1731840548:1;pip install --upgrade pip
+: 1731840229:0;python --version
+: 1731840284:7;sudo pacman -S terminator
+: 1731841281:0;nc
+: 1731843975:0;mkdir gufw
+: 1731844010:0;touch gufw.txt
+: 1731844301:4;sudo ufw status
+: 1731846680:4;sudo pacman -S xrandr
+: 1731846904:4;sudo pacman -S arandr
+: 1731847425:0;xrandr status
+: 1731847435:0;xrandr --help
+: 1731851541:0;echo $shell
+: 1731843646:0;fd
+: 1731843722:0;cd foto-nemazat/Baustelle/
+: 1731843746:0;bef bonita\ holland\ 745.JPG
+: 1731843762:11;feh bonita\ holland\ 727.JPG
+: 1731843795:6;feh bonita\ holland\ 824.JPG
+: 1731851765:0;echo $SHELL
+: 1731853016:11;sudo pacman -S neofetch
+: 1731853820:0;git clone gh repo clone zap-zsh/fzf
+: 1731853856:0;fzf ≈ÉÅkola
+: 1731853920:0;fzf Obr√ÉÅzky
+: 1731853933:0;fd babiƒÉ≠ka
+: 1731853990:0;cd foto-nemazat
+: 1731854004:0;cd poh≈Éπeb\ 1997
+: 1731854038:9;feh 001\ poh≈Éπeb\ 1997.png
+: 1731854353:0;paru uebezug
+: 1731854653:82;paru libre office
+: 1731855257:42;paru libreoffice
+: 1731855398:5;sudo pacman -Qs paru
+: 1731852695:21;sudo pacman -S zsh
+: 1731851806:0;fish
+: 1731856306:0;fd monika
+: 1731856309:0;fd moniky
+: 1731856961:5;sudo pacman -Qs ueberzug
+: 1731859757:15;paru mpv
+: 1731859784:9;paru flameshot
+: 1731862122:20;paru wine
+: 1731870680:164;paru Qemu
+: 1731871408:0;cd clipit
+: 1731871427:0;cd clipit-1.4.2
+: 1731871447:2;make
+: 1731871553:4;sudo pacman -R clipit
+: 1731871568:3;paru clipgrab
+: 1731871586:38;paru clipit
+: 1731872026:8;paru fzf
+: 1731872054:1;paru fazd
+: 1731872166:0;fzf Dani≈ÉÅ
+: 1731872185:0;fasd man
+: 1731872192:0;fasd -h
+: 1731872228:0;fasd -l
+: 1731872233:0;fasd -s
+: 1731872243:0;fasd -z
+: 1731872478:0;dpkg -l |more\
+
+: 1731873019:0;sudo find /run/media/alexpad/drive_go/ -type f > /home/alexpad/drive_vypis.txt\
+
+: 1731873038:0;sudo find /mnt/alexpad/drive_go/ -type f > /home/alexpad/drive_vypis.txt\
+
+: 1731913714:6;nvim fore2.txt
+: 1731930390:0;cd Mega/txt/nvim fore2.txt
+: 1731930418:0;MEGA
+: 1731930432:8761;nvim forex2.txt
+: 1731960814:40;paru telegram-desktop
+: 1731960869:19;paru yt-dlp
+: 1731960933:12;paru bitwarden
+: 1732048126:1;paru torent
+: 1732048149:25;paru torrent
+: 1732127915:4;sudo pacman syu
+: 1732126203:0;deseti prsty
+: 1732128828:0;git clone gh repo clone clvv/fasd
+: 1732128897:0;cd fasd
+: 1732129139:0;fasdz
+: 1732129266:26;paru fasd
+: 1732129433:0;eval "$(fasd --init posix-alias zsh-hook)"
+: 1732129481:0;fasd_cache="$HOME/.fasd-init-bash"\
+if [ "$(command -v fasd)" -nt "$fasd_cache" -o ! -s "$fasd_cache" ]; then\
+ fasd --init posix-alias bash-hook bash-ccomp bash-ccomp-install >| "$fasd_cache"\
+fi\
+source "$fasd_cache"\
+unset fasd_cache
+: 1732129502:0;alias c='fasd_cd -d'\
+#\
+# function fasd_cd is defined in posix-alias
+: 1732129534:0;z obr
+: 1732129549:0;z do
+: 1732129556:0;z dok
+: 1732129680:0;zsh dok
+: 1732129692:0;zsh
+: 1732129762:0;f do
+: 1732129773:4;atril amundi\ kb.pdf
+: 1732129849:0;\
+
+: 1732129888:0;f foo \
+a foo bar \
+f js$ \
+f -e vim foo \
+mplayer `f bar` \
+z foo \
+open `sf pdf`   # interactively select a file matching pdf and launch `open`
+: 1732129931:0;fasd [options] [query ...]\
+[f|a|s|d|z] [options] [query ...]\
+  options:\
+    -s         list paths with scores\
+    -l         list paths without scores\
+    -i         interactive mode\
+    -e <cmd>   set command to execute on the result file\
+    -b <name>  only use <name> backend\
+    -B <name>  add additional backend <name>\
+    -a         match files and directories\
+    -d         match directories only\
+    -f         match files only\
+    -r         match by rank only\
+    -t         match by recent access only\
+    -R         reverse listing order\
+    -h         show a brief help message\
+    -[0-9]     select the nth entry\
+\
+fasd [-A|-D] [paths ...]\
+    -A    add paths\
+    -D    delete paths
+: 1732129946:0;skl
+: 1732129961:0;fasd
+: 1732129972:0;fasd dok
+: 1732129978:0;fasd a
+: 1732129984:0;fasd fi
+: 1732130037:0;bindkey '^X^A' fasd-complete \
+bindkey '^X^F' fasd-complete-f \
+bindkey '^X^D' fasd-complete-d  # C-x C-d to do fasd-complete-d (only directories)
+: 1732389166:0;wimtutor
+: 1732388868:10;vim tutor
+: 1732436595:0;e
+: 1732436621:0;1
+: 1732436096:0;b
+: 1732436110:0;q
+: 1732474746:0;endwin, isendwin- restore initial terminal environment\
+
+: 1732474761:0;\
+int endwin(void);\
+int isendwin(void);\
+
+: 1732474800:0;21:51:15 INFO ranger version: ranger-master \
+21:51:15 INFO Python version: 3.11.6 (main, Oct 13 2023, 15:52:55) [GCC 13.1.1 20230722]\
+21:51:15 INFO Locale: en_US.UTF-8\
+21:51:15 INFO Process ID: 28100\
+21:51:32 ERRO Notification: endwin() returned ERR\
+21:51:32 ERRO endwin() returned ERR\
+Traceback (most recent call last):\
+  File "/tmp/ranger/ranger-master/ranger/core/actions.py", line 272, in execute_console\
+    cmd.execute()\
+  File "/tmp/ranger/ranger-master/ranger/config/commands.py", line 1295, in execute\
+    self.fm.execute_file([File(cmdfile.name)], app='editor')\
+  File "/tmp/ranger/ranger-master/ranger/core/actions.py", line 446, in execute_file\
+    return execute()\
+           ^^^^^^^^^\
+  File "/tmp/ranger/ranger-master/ranger/core/actions.py", line 444, in execute\
+    return self.rifle.execute(filenames, mode, label, flags, None)\
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\
+  File "/tmp/ranger/ranger-master/ranger/ext/rifle.py", line 440, in execute\
+    self.hook_before_executing(command, self._mimetype, self._app_flags)\
+  File "/tmp/ranger/ranger-master/ranger/core/fm.py", line 136, in <lambda>\
+    self.ui.suspend() if 'f' not in flags else None\
+    ^^^^^^^^^^^^^^^^^\
+  File "/tmp/ranger/ranger-master/ranger/gui/ui.py", line 160, in suspend\
+    curses.endwin()\
+_curses.error: endwin() returned ERR
+: 1732477427:0;:colorsheme .viminfo
+: 1732477487:0;:
+: 1732477695:0;lsblk
+: 1732480154:2;git clone https://github.com/yuki-uthman/vim-colors.git
+: 1732482487:0;source ~/.zshrc
+: 1732482528:0;alias a='fasd -a' \
+alias s='fasd -si' \
+alias d='fasd -d' \
+alias f='fasd -f' \
+alias sd='fasd -sid' \
+alias sf='fasd -sif' \
+alias z='fasd_cd -d' \
+alias zz='fasd_cd -d -i' # cd with interactive selection
+: 1732482558:0;d
+: 1732482578:0;f
+: 1732482684:0;zz
+: 1732482719:0;source ~/.bashrc
+: 1732482754:0;_fasd_bash_hook_cmd_complete v m j o
+: 1732482773:0;clean
+: 1732482803:0;s
+: 1732482818:0;f dok
+: 1732481928:8;sudo pacman -fasd
+: 1732481942:12;sudo pacman -S fasd
+: 1732482152:0;git clone https://github.com/clvv/fasd.git\
+$ cd fasd/
+: 1732482170:0;git clone https://github.com/clvv/fasd.git
+: 1732482217:0;cd fasd/
+: 1732482252:0;eval "$(fasd --init auto)"
+: 1732482312:0;$ source ~/.bashrc
+: 1732482318:0;a
+: 1732482326:0;si
+: 1732482609:0;f vim
+: 1732482621:0;f doku
+: 1732482636:0;f Dokumenty
+: 1732483189:12;sudo pacman -S autojump
+: 1732483282:28;paru autojump
+: 1732483447:0;j dani≈ÉÅ
+: 1732483609:0;autojump --help
+: 1732483769:0;autojump dok
+: 1732483842:0;autojump .zshrc
+: 1732484044:0;git clone git clone git://github.com/wting/autojump.git
+: 1732484128:60;git clone git://github.com/wting/autojump.git
+: 1732484200:0;git clone https://github.com/wting/autojump.git
+: 1732484994:0;[[ -s /home/alexpad/.autojump/etc/profile.d/autojump.sh ]] && source /home/alexpad/.autojump/etc/profile.d/autojump.sh
+: 1732485004:1;autoload -U compinit && compinit -u
+: 1732484363:0;ja
+: 1732484474:7;fzf
+: 1732484508:0;autojump
+: 1732484712:0;autojump\
+[[ -s /usr/share/autojump/autojump.zsh ]] && source /usr/share/autojump/autojump.zsh
+: 1732484733:0;autojump installed with apt\
+[[ -s /usr/share/autojump/autojump.zsh ]] && source /usr/share/autojump/autojump.zsh
+: 1732485252:0;j -i
+: 1732486012:0;j bracha
+: 1732486020:0;j bra
+: 1732485624:0;fzf j√ÉÅ
+: 1732485634:0;j√ÉÅ fzf
+: 1732486189:0;foto-nemazat/28_11_2020/lacek/br√ÉÅcha\ ≈ÉÅkola\ 19.png
+: 1732486236:9;feh foto-nemazat/12_10_2020/br√ÉÅcha\ 1979.jpg
+: 1732486271:0;MEGA/forex/profiles/moje
+: 1732486298:0;cd Mega
+: 1732486314:0;cd MEGA
+: 1732486394:0;\
+eval "$(fzf --bash)"
+: 1732486500:0;[200~Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+: 1732486502:0;Plug 'junegunn/fzf.vim'~
+: 1732486529:4;find * -type f | fzf > selected
+: 1732486550:0;find br√ÉÅcha
+: 1732486613:17;fzf --height 40%
+: 1732486685:0;.cache/thumbnails
+: 1732486764:0;MEGA/linux/programy/
+: 1732486838:0;foto-nemazat/lacek
+: 1732486855:0;br√ÉÅcha\ ≈ÉÅkola01.png
+: 1732487254:12;nvim .conkyrc
+: 1732487333:0;builtin cd -- /home/alexpad/MEGA/ereader/Covers/fa
+: 1732487343:0;+
+: 1732487550:0;builtin cd -- /home/alexpad/Dokumenty/xtb
+: 1732487639:0;04.\ Prohlaseni\ o\ vedomi\ investicniho\ rizika_20240910_clean.pdf
+: 1732487823:0;export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND ;} history -a"
+: 1732487833:0;export PROMPT_COMMAND="history -a"
+: 1732487911:0;autojump - a
+: 1732487935:283;man autojump
+: 1732488460:0;autojump -v
+: 1732488465:0;autojump -a
+: 1732489187:0;j Obr
+: 1732489198:0;j -a
+: 1732489579:0;autoload -U compinit && compinit -u\
+
+: 1732489605:11;jo hudba
+: 1732489689:0;jc bar
+: 1732489698:0;jc obr
+: 1732489757:0;[[ -s /home/alexpad/.autojump/etc/profile.d/autojump.sh ]] && source /home/alexpad/.autojump/etc/profile.d/autojump.sh\
+
+: 1732489332:0;jc mega
+: 1732489341:0;autojump -h
+: 1732489364:0;autojump -complete
+: 1732489522:0;j foo
+: 1732490036:0;autojump-zsh
+: 1732490165:0;cd platform
+: 1732490197:0;./install.py
+: 1732489859:0;fasd -a
+: 1732489868:0;a obr
+: 1732489891:0;autojump.sh
+: 1732489914:0;cd autojump
+: 1732490472:0;J obr
+: 1732534880:0;‚ÉΩØ j home\
+zsh: command not found: j
+: 1732534898:0;‚ÉΩØ j home\
+.
+: 1732535047:0;j hudba
+: 1732535097:0;j nemazat
+: 1732535175:0;j share
+: 1732536561:0;~/.autojump/etc/profile.d/autojump.zsh or /etc/profile.d/autojump.zsh\
+\
+
+: 1732536759:0;[200~source /usr/share/autojump/autojump.sh on startup~
+: 1732536867:0;j .loc
+: 1732536929:0;j h
+: 1732536959:0;j fo
+: 1732537017:0;ls -ah
+: 1732537032:0;j MEGA
+: 1732537052:0;j .con
+: 1732537090:5;/home/alexpad/MEGA/windows/DesetiPrsty/DesetiPrsty.exe\
+
+: 1732537103:0;j prsty
+: 1732537652:0;source /usr/share/autojump/autojump.sh
+: 1732537682:0;sh /usr/share/autojump/autojump.sh
+: 1732537734:0;echo '. /usr/share/autojump/autojump.sh' >> ~/.bashrc
+: 1732537749:0;echo '. /usr/share/autojump/autojump.sh' >> ~/.zshrc
+: 1732537805:0;j Hudba
+: 1732537873:0;cd Megga
+: 1732537888:0;cd MEGA/txt
+: 1732537936:0;cd Sta≈æen√©
+: 1732537943:0;j st
+: 1732538040:0;cd Obr√ÉÅzky
+: 1732538067:0;j foto
+: 1732538157:0;/lacek
+: 1732538167:0;cd lacek
+: 1732538174:0;j lac
+: 1732538572:0;j --stat
+: 1732538647:0;fzf -g
+: 1732538900:0;fzf -a
+: 1732538969:0;jdok
+: 1732538982:0;cd Dokumenty
+: 1732539808:0;builtin cd -- /home/alexpad/Videa
+: 1732539817:0;j vid
+: 1732535413:0;j .local
+: 1732535479:5;fzf -e
+: 1732535519:5;fzf -m
+: 1732536270:0;.local
+: 1732536295:0;cd share/autojump
+: 1732536320:90;nvim autojump.txt
+: 1732540759:0;cd..
+: 1732540814:0;j tx
+: 1732541391:0;cd osobni
+: 1732541418:0;cd linux
+: 1732541427:0;j me
+: 1732541475:0;builtin cd -- /home/alexpad/MEGA/ereader/knihy/tora
+: 1732541488:0;leviticus.pdf
+: 1732541560:7;sudo pacman -R variety
+: 1732541578:0;jto
+: 1732541582:0;j to
+: 1732534142:4;jo dok
+: 1732542445:0;source <(fzf --zsh)
+: 1732542606:0;touch fzf.txt
+: 1732542620:105;nvim fzf.txt
+: 1732543150:0;j tor
+: 1732543186:0;builtin cd -- /home/alexpad/MEGA/ereader/knihy
+: 1732546443:0;z
+: 1732543429:0;j kni
+: 1732543465:8;atril Jom\ kipur\ ‚ÄÉ≥\ Wikipedie.pdf
+: 1732544292:0;open seferJecira.pdf
+: 1732545531:0;builtin cd -- /home/alexpad/MEGA/ereader/knihy/daniel
+: 1732545573:0;fd daniel
+: 1732547373:0;builtin cd -- /home/alexpad/Sta≈æen√©
+: 1732547425:0;zvuky\ android/Ringtones\ 1/Minimal\ Melodies/Falling\ Star.ogg
+: 1732547513:0;lscd
+: 1732547697:0;cds
+: 1732547831:0;fd skl√≠ƒÉ≠ko
+: 1732547862:0;j 09
+: 1732547906:0;tomsov√ÉÅ\ jana/skl√≠ƒÉ≠ko8.jpg
+: 1732547930:3;feh tomsov√ÉÅ\ jana/skl√≠ƒÉ≠ko8.jpg
+: 1732548037:0;builtin cd -- /home/alexpad/foto-nemazat
+: 1732548132:24;feh 09_2021/d√ÉÅ≈ÉÅa\ skl√≠ƒÉ≠ko\ 022.png
+: 1732548291:0;fd amundi
+: 1732548322:0;builtin cd -- /home/alexpad/MEGA
+: 1732548358:5;atril osobni/2022/kb\ 17_1_22/amundi\ kb.pdf
+: 1732548472:0;MEGA/osobni/amundi
+: 1732548531:0;2023/ƒÉ¨PP\ IPID.pdf
+: 1732548543:0;j oso
+: 1732548556:0;j 24
+: 1732548577:1;j -s
+: 1732548616:1;Dokumenty/Pavl√≠k\ bible.pdf
+: 1732548637:0;Dokumenty/Pavl√≠k\ atril bible.pdf
+: 1732548680:8;atril Dokumenty/Pavl√≠k\ bible.pdf
+: 1732548807:21;nvim MEGA/txt/fzf.txt
+: 1732562006:0;MEGA/linux/
+: 1732562066:0;builtin cd -- /home/alexpad/Dokumenty/openvpn
+: 1732562296:0;j meg
+: 1732729161:0;gMEGA/osobni/sa≈ÉÅa.pdf
+: 1732734352:69;feh prosinec\ 2024-11-27_19-59.png
+: 1732743338:0;Vypis\ z\ bezneho\ uctu\ 2022_ƒÉ≠erven.pdf
+: 1732743384:4;feh Obr√ÉÅzky/prosinec\ 2024-11-27_19-59.png
+: 1732743422:0;builtin cd -- /home/alexpad/Obr√ÉÅzky
+: 1732743433:0;j sta
+: 1732743503:0;mƒÉª≈Éπenkov√Ω\ list\ \(1\).pdf
+: 1732803169:0;j dok
+: 1732803211:0;Dokumenty/ƒÉ≠ez\ 9-3-23\ smlouva\ ele.pdf
+: 1732819042:6;vim cz
+: 1732819110:7;sudo pacman -S vim
+: 1732820876:2;feh vim\ 13_13_04_23.jpeg
+: 1732820913:388;feh vim\ 2024-11-28_19-49.png
+: 1732825259:0;touch zshrc.txt
+: 1732825270:475;nvim touch zshrc.txt
+: 1732831657:0;git -h
+: 1732822897:42;git clone https://github.com/alexmo62/nvim.git
+: 1732831779:0;j obr
+: 1732831793:28;feh cel√ÉÅ\ 2024-11-28_23-09.png
+: 1732869752:5;git clone https://aur.archlinux.org/snapd.git
+: 1732869770:0;cd snapd
+: 1732869786:106;makepkg -si
+: 1732869894:7;sudo systemctl enable --now snapd.socket
+: 1732869919:0;sudo systemctl enable --now snapd.apparmor.service
+: 1732869935:0;sudo ln -s /var/lib/snapd/snap /snap
+: 1732870080:0;sudo snap install code
+: 1732870086:29;sudo snap install code --classic
+: 1732879152:0;j Meg
+: 1732879163:0;j m
+: 1732879179:0;builtin cd -- /home/alexpad/MEGA/windows
+: 1732902539:5;sudo pacman -S cherry
+: 1732902561:23;paru cherry
+: 1732903033:0;netstat¬ÉÄ-t
+: 1732903054:4;sudo pacman -S netstat
+: 1732902395:0;builtin cd -- /home/alexpad/Dokumenty
+: 1732902447:0;MEGA/osobni/2021/ƒÉ≠ez\ p≈Éπevod\ plyn\ elektrika\ \ p≈Éπ√≠ƒÉ≠n√ÉÅ.pdf
+: 1732902487:0;j lin
+: 1732902515:0;cd cherry
+: 1732994912:0;vimtutor
+: 1732996041:0;builtin cd -- /home/alexpad/Obr√ÉÅzky/wallpaper
+: 1732996060:0;hory.jpg
+: 1732996070:3;feh hory.jpg
+: 1732997617:1;paru python
+: 1733000013:0;chsh -l
+: 1733000386:0;paru zsh
+: 1733000949:0;a\
+
+: 1733000564:0;.config/ranger/soubory.txt
+: 1733000573:0;j soug
+: 1733000599:0;cat soubory.txt
+: 1733000612:0;cat .config/ranger/soubory.txt
+: 1733000702:0;cd ..
+: 1733000768:0;ls ahl
+: 1733000774:0;ls -ahl
+: 1733000789:0;ls -al
+: 1733001349:0;df luke
+: 1733001363:0;fd luke
+: 1733001542:461;paru zip
+: 1733003026:1;git clone https://github.com/kelly-lin/ranger.nvim.git
+: 1733073880:0;fd cesnet
+: 1733073888:0;fd ceznet
+: 1733080186:0;vim -v
+: 1733080197:0;nvim -v
+: 1733080209:5;nvim -V1
+: 1733084644:20;paru fuzzy
+: 1733084846:0;git clone https://github.com/fdw/ranger-autojump.git
+: 1733084905:0;builtin cd -- /home/alexpad/.autojump
+: 1733085617:0;fuzzy
+: 1733088208:0;fd zahrada
+: 1733088566:1;git clone https://github.com/laggardkernel/ranger-fzf-marks.git ~/.config/ranger/plugins/fzf-marks
+: 1733089155:0;git clone https://github.com/yonghie/ranger-gitplug
+: 1733089172:0;cd ranger-gitplug
+: 1733089186:0;make install
+: 1733089392:0;git add
+: 1733089460:0;git add /home/alexpad/.config/ranger
+: 1733089761:1;git clone https://github.com/maximtrp/ranger-archives.git
+: 1733093314:0;git clone git@github.com:MuXiu1997/ranger-fzf-filter.git ~/.config/ranger/plugins/ranger_fzf_filter
+: 1733093449:1;mkdir -p ~/.config/ranger/plugins\
+wget -O ~/.config/ranger/plugins/ranger_fzf_filter.py https://raw.githubusercontent.com/MuXiu1997/ranger-fzf-filter/main/__init__.py
+: 1733094588:0;cd plugins
+: 1733094640:1;git clone https://github.com/SL-RU/ranger_udisk_menu\
+
+: 1733095355:0;paru udisk2
+: 1733096169:43;paru udisk
+: 1733096231:0;sudo pacman -R udisk2
+: 1733096242:0;sudo pacman -R udisks2
+: 1733144914:5;sudo pacman -S mocp
+: 1733144934:12;paru moc
+: 1733144953:25;paru mocp
+: 1733145069:6;sudo pacman -S moc
+: 1733145083:10;yay moc
+: 1733145119:83;moc
+: 1733152365:0;J win
+: 1733152402:0;cd MEGA/windows
+: 1733152423:0;cd DesetiPrsty/ls
+: 1733152457:0;cd DesetiPrsty/
+: 1733152461:0;la
+: 1733155370:27;yay -S moc-pulse
+: 1733161474:0;cd MEGA/windows wine DesetiPrsty.exe
+: 1733161481:0;j win
+: 1733161502:0;cd DesetiPrsty
+: 1733230016:0;cd MEGA/windows/DesetiPrsty wine DesetiPrsty.exe
+: 1733230040:1;j des__1__/home/alexpad/MEGA/windows/DesetiPrsty ls
+: 1733237064:0;touch a.txt
+: 1733237131:15;vi a.txt
+: 1733337720:8;nvim vimtutor
+: 1733429759:10;sudo gufw
+: 1733429781:0;ufw
+: 1733429796:0;ufw status
+: 1733429815:0;status ufw
+: 1733429864:13;nvim gufw.txt
+: 1733429886:0;sudo ufw status\
+
+: 1733471622:0;xrandr
+: 1733478489:0;cd .config
+: 1733478551:0;fd poji≈ÉÅtovna
+: 1733478669:0;fd kb poji≈ÉÅ
+: 1733478734:0;fd kb poji≈ÉÅtƒÉªn√≠
+: 1733478755:0;fd kb poji≈ÉÅtƒÉªn√≠ bytu
+: 1733478781:0;fd kb
+: 1733478815:0;builtin cd -- /home/alexpad/MEGA/osobni/2024
+: 1733478833:0;find kb
+: 1733501133:4;sudo Disples
+: 1733501148:0;sudo Displej
+: 1733514125:4;vim a.txt
+: 1733514135:0;rm a.txt
+: 1733507423:0;j dese
+: 1733569284:0;j com
+: 1733569296:0;j .conf
+: 1733569337:28;thunar
+: 1733570495:0;d=$(mktemp -d) && touch $d/{1..3} && ranger $d
+: 1733570605:0;%s/$/-d/g
+: 1733575843:0;ranger --copy-config
+: 1733576061:0;git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+: 1733576403:0;ranger --copy-config=all
+: 1733598965:1;du
+: 1733598975:1;du -a
+: 1733685799:0;j dese__1__/home/alexpad/MEGA/windows/DesetiPrsty wine /home/alexpad/MEGA/windows/DesetiPrsty
+: 1733687350:0;foto-nemazat/28_11_2020/br√ÉÅcha\ cecky\ ≈Éπeka01.png
+: 1733687401:43;feh foto-nemazat/28_11_2020/br√ÉÅcha\ cecky\ ≈Éπeka01.png
+: 1733687458:0;j ceck
+: 1733687507:0;fd cecky
+: 1733687541:20;feh foto-nemazat/28_11_2020/br√ÉÅcha\ cecky\ ≈Éπeka02.png
+: 1733769792:0;man fzf
+: 1733832589:0;o
+: 1733833376:87;nvim MEGA/txt/torah.txt
+: 1733833530:0;MEGA/txt/matou≈ÉÅ.txt
+: 1733833551:0;vim MEGA/txt/matou≈ÉÅ.txt
+: 1733829880:0;greb -l *.txt
+: 1733829892:0;bash
+: 1733829989:15;sudo pacman -S grep
+: 1733830028:0;paru grepr
+: 1733830031:243;paru grep
+: 1733830318:9;vim matou≈ÉÅ.txt
+: 1733830359:0;grep -l zplodil *.txt
+: 1733830389:0;cat matou≈ÉÅ.txt
+: 1733830472:0;grep i≈ÉÅkariotsk√Ω matou≈ÉÅ.txt
+: 1733830514:0;grep -l i≈ÉÅkariot *.txt
+: 1733830553:0;grep -l I≈ÉÅkariot *.txt
+: 1733830649:0;cat I≈ÉÅkariot *.txt
+: 1733830669:0;grep I≈ÉÅkariot *.txt
+: 1733831274:0;grep I≈ÉÅkariot ./*.txt /another/path/*.txt
+: 1733831295:0;grep -l I≈ÉÅkariot ./*.txt /another/path/*.txt
+: 1733831323:0;grep -l I≈ÉÅkariot ./*.txt /MEGA/txt/*.txt
+: 1733831424:0;grep -lr I≈ÉÅkariot *.txt
+: 1733831450:0;grep -lr zplodil *.txt
+: 1733831684:55;grep -r zplodil *
+: 1733831745:0;grep -r zplodil *.txt
+: 1733831899:0;grep -i zplodil *
+: 1733832815:0;grep -i "i≈ÉÅkariot" *
+: 1733832992:0;grep -i "jakob" *
+: 1733833039:0;grep -i "jakob" *.txt
+: 1733833090:0;grep -i -r "jakob" *.txt
+: 1733833103:0;grep -l -i "jakob" *.txt
+: 1733833127:0;grep -l -i "kristus" *.txt
+: 1733833811:0;grep -i "kristus" *
+: 1733833897:0;grep -i "kristus" ./*.txt
+: 1733833913:0;grep -i "kristus" ~./*.txt
+: 1733834001:1;grep -i -v "kristus" ~/*.txt
+: 1733834033:0;grep -i "kristus" ~/*.txt
+: 1733834099:0;grep -i -c "kristus" *.txt
+: 1733834129:0;grep -i -L "kristus" *.txt
+: 1733834143:0;grep -i "kristus" *.txt
+: 1733834148:0;grep -i --color "kristus" *.txt
+: 1733834173:0;grep -i --color "jid√ÉÅ≈ÉÅ" *.txt
+: 1733834202:0;grep -i --color "gufw" *.txt
+: 1733834224:0;grep -i --color "ufw" *.txt
+: 1733834304:0;grep --color "ufw" *.txt
+: 1733834456:0;grep -i --color "d√ÉÅ≈ÉÅa" /txt/*.txt
+: 1733834478:0;grep -i --color "d√ÉÅ≈ÉÅa" /txt*.txt
+: 1733834495:0;grep -i --color "d√ÉÅ≈ÉÅa" *.txt
+: 1733834930:6;grep -i --color "d√ÉÅ≈ÉÅa"
+: 1733834942:0;grep -i --color "d√ÉÅ≈ÉÅa" *
+: 1733835195:3;grep -i --color d√ÉÅ≈ÉÅa
+: 1733835237:0;grep -i --color d√ÉÅ≈ÉÅa *
+: 1733835356:0;txt
+: 1733835383:0;grep -r --color d√ÉÅ≈ÉÅa .
+: 1733835441:0;j pdf
+: 1733835498:0;j lin__1__/home/alexpad/MEGA/linux
+: 1733835528:0;grep -i --color hp .
+: 1733835570:0;cd pdf
+: 1733835575:0;grep -i --color hp *.pdf
+: 1733835601:0;grep -i --color "hp" *
+: 1733835641:0;grep -i --color "tisk√ÉÅrna" *
+: 1733835658:0;grep -i --color "tisk√ÉÅrna" *.pdf
+: 1733835686:1;grep -i --color "command" *
+: 1733835725:0;grep -i --color "command" .
+: 1733835769:0;grep -i --color "vim" .
+: 1733836414:0;grep -ri --include="*.txt" d√ÉÅ≈ÉÅa .
+: 1733836436:0;grep -ri --color --include="*.txt" d√ÉÅ≈ÉÅa .
+: 1733837484:0;grep -ri --color --include="*.txt" p≈Éπ√≠kazzy grep .
+: 1733837510:0;grep -ri --color --include="*.txt" p≈Éπ√≠kazy grep .
+: 1733839598:0;grep -o --color --include="*.txt" p≈Éπ√≠kazy grep .
+: 1733839613:1;grep -rio --color --include="*.txt" p≈Éπ√≠kazy grep .
+: 1733839780:5;sudo grep -rio --color --include="*.txt" p≈Éπ√≠kazy grep .
+: 1733840772:6;sudo grep -rio --color --include="*.txt" grep .
+: 1733840939:0;grep -ro --color --include="*.txt" grep .
+: 1733840974:0;grep -rio --color --include="*.txt" poh√ÉÅdky .
+: 1733841048:1;grep -rio --color --include="*.txt" hovno .
+: 1733842856:0;fd kundera
+: 1733842890:0;j knihy
+: 1733832680:0;man grep
+: 1733848108:0;./encoding.sh Kundera_Milan-Nesmrtelnost.txt
+: 1733848143:0;iconv Kundera_Milan-Nesmrtelnost.txt
+: 1733848209:0;man iconv
+: 1733848405:0;iconv -f latin1 -t UTF-8 < K.txt > Ku.txt
+: 1733848519:0;iconv -f latin1 -t UTF-8 cs < K.txt > Ku.txt
+: 1733848648:0;{Ku.txt}.utf8\
+
+: 1733848735:0;{K.txt}.utf8.converted"\
+\
+\
+
+: 1733848969:0;iconv -f <K.txt latin1> -t UTF8 < test.csv > output.txt
+: 1733849012:0;iconv -f <K.txt latin1> -t UTF8 output.txt
+: 1733849093:0;iconv -f <K.txt latin1> -t UTF8 <  > 
+: 1733849118:0;iconv -f <K.txt latin1> -t UTF8 <K.txt >
+: 1733849137:0;iconv -f <K.txt > -t UTF8 <K.txt >
+: 1733849210:0;iconv -f latin1 -t UTF8 < K.txt > output.txt
+: 1733849230:0;iconv -f latin1 -t UTF8 < K.txt > Ku.txt
+: 1733849437:0;echo 'latin string' | iconv -t utf-8 > K.txt
+: 1733851885:0;iconv -f latin1 -t utf8 Ku.txt > K.txt
+: 1733837306:0;touch grep.txt
+: 1733845506:0;touch encode.sh
+: 1733827358:0;j cecky
+: 1733827381:0;j dest
+: 1733862041:1013;paru -S yazi-git ffmpeg p7zip jq poppler fd ripgrep fzf zoxide imagemagick
+: 1733867352:1;git clone https://github.com/AnkurAlpha/my-yazi-configs.git
+: 1733905981:9;sudo pacman -S yazi ffmpeg p7zip jq poppler fd ripgrep fzf zoxide imagemagick
+: 1733923730:8;sudo pacman -S kitty
+: 1733912402:0;pacman -Sy yazi-bin
+: 1733912426:6;sudo pacman -Sy yazi-bin
+: 1733928840:0;grep -ri --color --include="*.txt" grep .
+: 1733928883:0;grep -ri --color --include="*.txt" jid√ÉÅ≈ÉÅ .
+: 1733928942:0;grep -ri --color --include="*.txt" jid√ÉÅ≈ÉÅ
+: 1733928959:0;grep -rio --color --include="*.txt" jid√ÉÅ≈ÉÅ
+: 1733929055:0;fd jid√ÉÅƒÉ≠
+: 1733929061:0;fd jid√ÉÅ≈ÉÅ
+: 1733929072:0;grep -rio --color --include="*.txt" jid√ÉÅ≈ÉÅ .
+: 1733929115:0;builtin cd -- /home/alexpad/MyBible/user/notes
+: 1733929146:0;j notes
+: 1733929191:0;cd 2.Nov√Ω\ z√ÉÅkon\ 27
+: 1733929255:0;j 2
+: 1733929265:0;j 2.
+: 1733929289:0;fd korinnta
+: 1733929301:0;fd korinsk√Ωm
+: 1733929334:0;fd Galatsk√Ωn
+: 1733929406:0;fd 09 Gala
+: 1733929419:0;fd 09 Galatsk√Ωm
+: 1733929459:0;grep -rio --color --include="*.txt" galatsk√Ωm
+: 1733945732:79;kitty
+: 1733946131:0;sssssssssss
+: 1733946128:0;ssssssssssss\
+
+: 1733946196:0;df -h
+: 1734031914:0;git hub https://github.com/ranger/ranger.git
+: 1734032101:1;sudo make install
+: 1734034198:1;grep -ri --color --include="*.txt" grep .\
+
+: 1734034229:0;grep -rio --color --include="*.txt" br√ÉÅcha .\
+
+: 1734035104:0;builtin cd -- /home/alexpad/MEGA/bible/sword/modules/lexdict
+: 1734035118:0;MEGA/Camera\ Uploads/nov√©\ sedlo\ 2023-10-20\ 18.41.45.jpg
+: 1734038781:0;builtin cd -- /home/alexpad/MEGA/bible/sword/modules/lexdict\
+fd
+: 1734038798:0;fd nov√© sedlo
+: 1734038814:0;fd Nov√© Sedlo
+: 1734038874:0;fd -e br√ÉÅcha
+: 1734038942:0;fd -i nov√© sedlo
+: 1734038950:0;fd -i nove sedlo
+: 1734038959:0;fd -i sedlo
+: 1734038992:0;fd -i nov√©
+: 1734039016:0;fd -i Nov√©
+: 1734039041:0;fd -i Sedlo
+: 1734039060:0;faix
+: 1734039073:0;fd -i faix
+: 1734039090:0;fd -E faix
+: 1734039101:0;fd -e faix
+: 1734039107:0;fd -I faix
+: 1734039113:0;fd -h
+: 1734039231:0;fd -l seedlo
+: 1734039236:1;fd -l sedlo
+: 1734039292:0;fd -l 2024-1
+: 1734039313:0;fd -l 2024-01-11
+: 1734039356:24;feh Obr√ÉÅzky/helena/2024-01-11\ 11.59.44.jpg
+: 1734039418:0;nomac Obr√ÉÅzky/helena/2024-01-11\ 11.59.44.jpg
+: 1734039520:101;nomacs Obr√ÉÅzky/helena/2024-01-11\ 11.59.44.jpg
+: 1734039641:1;fd br√ÉÅcha
+: 1734039674:320;nomacs foto-nemazat/28_11_2020/br√ÉÅcha\ ≈ÉÅkola.png
+: 1734040003:12;nomacs j√ÉÅ
+: 1734040020:0;fd j√ÉÅ
+: 1734040097:112;nomacs MEGA/Camera\ Uploads/j√ÉÅ\ 2023-05-30\ 16.38.27.jpg
+: 1734042649:1;mkdir -p "$HOME/.zsh"\
+git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
+: 1734043006:0;-p
+: 1734043023:0;-h
+: 1734085675:0;promt -h
+: 1734085965:0;promt
+: 1734086266:0;builtin cd -- /home/alexpad/Hudba
+: 1734086334:0;moc 01.Throw\ My\ Bones\ -\ New\ Album\ Whoosh\!\ out\ August\ 7th,\ 2020.mp3
+: 1734086345:8;mocp 01.Throw\ My\ Bones\ -\ New\ Album\ Whoosh\!\ out\ August\ 7th,\ 2020.mp3
+: 1734085559:0;.zshrc
+: 1734086367:0;j dep
+: 1734086436:0;j hud
+: 1734086476:194;mocp Hudba/deep\ purple\ whoosh\ 2020/11.Man\ Alive.mp3
+: 1734087260:40;nvim .zshrc\
+
+: 1734087362:21;nvim tutor
+: 1734088817:0;zap
+: 1734088929:0;zap prompt
+: 1734088979:0;zap - prompt
+: 1734089054:154;nvim .local/share/zap/zap.zsh
+: 1734089473:0;ll
+: 1734089857:0;source /the/directory/of/this/plugin/*.plugin.zsh
+: 1734090211:0;autojump.plugin.zsh
+: 1734091789:0;ls -a
+: 1734093042:0;web zad√ÉÅ
+: 1734093087:0;$ web_search google oh-my-zsh\
+$ google oh-my-zsh
+: 1734093095:0;$ web_search google oh-my-zsh
+: 1734093145:0;web-search cxesko
+: 1734093156:0;.... web-search cxesko
+: 1734093169:0;.. koule
+: 1734093432:0;google izrael
+: 1734093456:0;google boty
+: 1734093519:0;web_search moje
+: 1734093600:0;google oh-my-zsh
+: 1734092808:0;zap promt
+: 1734092835:0;zap list
+: 1734094507:0;zap update
+: 1734094794:0;web_search google
+: 1734094809:0;web_search hovno
+: 1734094821:0;web_search Google
+: 1734094849:0;web_search youtube hlas
+: 1734094856:0;web_search youtube
+: 1734092418:0;cd deep
+: 1734092426:0;cd Hudba
+: 1734092435:0;ls -l
+: 1734092461:0;cd deep\ purple\ whoosh\ 2020
+: 1734103610:18;feh foto-nemazat/dasa/d√ÉÅ≈ÉÅa\ v√ÉÅnoce\ 2011-12-24\ 19.24.58.jpg
+: 1734104088:0;fd d√ÉÅ≈ÉÅa v√ÉÅnoce
+: 1734104093:0;fd d√ÉÅ≈ÉÅa
+: 1734121595:0;swapoff -a && swapon -a\
+
+: 1734121242:1;grep -rio --color --include="*.txt" swap .\
+
+: 1734121293:0;j linux
+: 1734121387:50;nvim linux.txt
+: 1734121522:0;grep -rio --color --include="*.txt" swapoff .\
+
+: 1734121549:119;nvim todo.txt
+: 1734121826:0;./
+: 1734121836:0;/
+: 1734121880:168;sudo nvim etc/updatedb.conf
+: 1734122532:4;sudo pacman -S mybible
+: 1734122730:36;paru mybible
+: 1734122802:0;paru ourbible remove
+: 1734122812:9;paru ourbible
+: 1734179266:0;ran
+: 1734177362:1;grep -rio --color --include="*.txt" Debora\
+
+: 1734177667:4;grep -rio --color --include="*.pdf" Debora\
+
+: 1734177691:2;grep -rio --color --include="*.pdf" R√ÉÅchel\
+
+: 1734177709:0;grep -rio --color --include="*." R√ÉÅchel\
+
+: 1734177728:0;grep -rio --color --include="*.txt" R√ÉÅchel\
+
+: 1734179040:0;fd bible
+: 1734186967:1;grep -rio --color --include="*.txt" Je≈æ√≠≈ÉÅ\
+
+: 1734187047:1;grep -rio --color --include="*.txt" "Je≈æ√≠≈ÉÅ"\
+
+: 1734187211:0;grep -rio --color "p≈Éπeklsd pro tyto" *.txt\
+
+: 1734187221:0;grep -rio --color "p≈Éπeklad pro tyto" *.txt\
+
+: 1734187238:0;grep -rio --color "p≈Éπeklad pro ty" *.txt\
+
+: 1734187265:1;grep -rio --color "R√ÉÅchel" *.txt\
+
+: 1734187308:5;grep -rio --color "R√ÉÅchel zem≈Éπela " \
+
+: 1734187332:0;grep -rio --color "R√ÉÅchel zem≈Éπela " *.pdf\
+
+: 1734187340:0;grep -rio --color "R√ÉÅchel zem≈Éπela " *.txt\
+
+: 1734187357:0;grep -rio --color "R√ÉÅchel zem≈Éπela Hebron" *.txt\
+
+: 1734187376:0;grep -rio --color "R√ÉÅchel zem≈Éπela v Hebronu" *.txt\
+
+: 1734187392:0;grep -rio --color "R√ÉÅchel zem≈Éπela v Kenn√ÉÅnu" *.txt\
+
+: 1734187400:0;grep -rio --color "R√ÉÅchel zem≈Éπela" *.txt\
+
+: 1734187478:0;grep -rio --color "Je≈æ√≠≈ÉÅ" *.txt\
+
+: 1734187490:0;grep -rio --color "Je≈æ√≠≈ÉÅ uzdravil" *.txt\
+
+: 1734187505:0;grep -rio --color "Je≈æ√≠≈ÉÅ a Jan" *.txt\
+
+: 1734187519:0;grep -rio --color "Je≈æ√≠≈ÉÅ a Matou≈ÉÅ" *.txt\
+
+: 1734187527:0;grep -rio --color "Matou≈ÉÅ" *.txt\
+
+: 1734187548:1;grep -rio --color "ucho" *.txt\
+
+: 1734195638:292;vim bible\ csp.txt
+: 1734196441:0;j mega
+: 1734199640:1;git clone https://github.com/nvim-telescope/telescope-media-files.nvim.git
+: 1734202296:0;paru chava
+: 1734202308:26;paru viu
+: 1734205747:0;MEGA/txt/grep.txt
+: 1734205753:4;sudo MEGA/txt/grep.txt
+: 1734205766:8;vim sudo MEGA/txt/grep.txt
+: 1734205786:18;vim MEGA/txt/grep.txt
+: 1734205902:0;j txt
+: 1734205919:15;vim zapisnik.txt
+: 1734205955:4;vi zapisnik.txt
+: 1734191420:0;Jgrep -rio --color "ucho" *.txt\
+
+: 1734209377:50;nomacs foto-nemazat/d√ÉÅ≈ÉÅa\ 12_3_2021/094.png
+: 1734210059:0;builtin cd -- /home/alexpad/MEGA/osobni/faix
+: 1734210095:72;atril Jen√≠ƒÉ≠ek\ Jaroslav.pdf
+: 1734218719:16;sudo pacman -S privoxy
+: 1734218754:0;paru privoxy
+: 1734216204:0;nvin
+: 1734216361:0;grep.txt
+: 1734219583:22;nvim /etc/privoxy/config
+: 1734219640:867;sudo nvim /etc/privoxy/config
+: 1734221005:5;sudo /etc/init.d/privoxy start
+: 1734268442:0;vim.config/nvim/init.vim__
+: 1734269448:3;nvim /.config/nvim/init.vim__
+: 1734269461:938;nvim .config/nvim/init.vim__
+: 1734273764:0;nvim .zshrc
+: 1734350291:0;nvim --v
+: 1734351073:0;nvim bible csp.txt
+: 1734375494:6;nvim ~/.config/nvim/ls
+: 1734375505:51;nvim ~/.config/nvim/
+: 1734372436:0;cd ~/.config/nvim
+: 1734372461:1622;vim init.lua
+: 1734375598:0;cd ~/.config/nvim/init.lua
+: 1734375613:0;cd ~/.config/nvim/
+: 1734376678:97;nvim init.lua
+: 1734376788:6;nvim init.luacd
+: 1734428146:1;git clone https://github.com/ThePrimeagen/init.lua.git
+: 1734458119:0;sh -c ‚ÄÉ∏curl -fLo ‚ÄÉº${XDG_DATA_HOME:-$HOME/.local/share}‚ÄÉΩ/nvim/site/autoload/plug.vim ‚ÄÉ¥ create-dirs \\
+ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+: 1734459245:0;curl -fLo ‚ÄÉº${XDG_DATA_HOME:-$HOME/.local/share}‚ÄÉΩ/nvim/site/autoload/plug.vim ‚ÄÉ¥ create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
+\
+Plug 'junegunn/fzf.vim'~\
+sh -c ‚ÄÉ∏curl -fLo ‚ÄÉº${XDG_DATA_HOME:-$HOME/.local/share}‚ÄÉΩ/nvim/site/autoload/plug.vim ‚ÄÉ¥ create-dirs \\
+ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+: 1734432084:0;ranger¬®
+: 1734460052:0;nvim --version
+: 1734450998:0;HOME
+: 1734451060:0;~
+: 1734451176:0;j
+: 1734512224:10;paru btm
+: 1734544595:0;touch encode.txt
+: 1734544616:89;nvim encode.txt
+: 1734544718:0;rm encode.txt
+: 1734545229:0;curl -sL "https://raw.githubusercontent.com/Benexl/yt-x/refs/heads/master/yt-x" -o ~/.local/bin/yt-x && chmod +x ~/.local/bin/yt-x\
+
+: 1734545782:5;sudo pacman -S jp curl
+: 1734545831:9;sudo pacman -S jq
+: 1734546062:0;pacman -S jq[200~ yay -S ytfzf ueberzug
+: 1734546075:6;yay -S ytfzf ueberzug
+: 1734546323:6;ytfzf -fD
+: 1734546346:84;ytfzf -fD tvrd√Ω
+: 1734546516:9;ytfzf -fD ludv√≠k tvrd√Ω
+: 1734546549:58;ytfzf -fD Prorok Zachari√ÉÅ≈ÉÅ
+: 1734546643:16;ytfzf query
+: 1734547009:0;\
+;2Csudo make install doc
+: 1734547027:1;git clone https://github.com/pystardust/ytfzf
+: 1734547041:0;cd ytfzf
+: 1734547054:4;sudo make install doc
+: 1734547085:9;ytfzf tvrd√Ω
+: 1734547194:0;sudo make addons
+: 1734547340:0;YTFZF_SYSTEM_ADDONS_DIR will point to /usr/local/share/ytfzf/addons even if you set PREFIX to something else\
+If you use a different prefix, it would be smart to export YTFZF_SYSTEM_ADDONS_DIR to $PREFIX/share/ytfzf/addons in a shell startup file.
+: 1734547345:0;YTFZF_SYSTEM_ADDONS_DIR will point to /usr/local/share/ytfzf/addons even if you set PREFIX to something else\
+If you use a different prefix, it would be smart to export YTFZF_SYSTEM_ADDONS_DIR to $PREFIX/share/ytfzf/addons in a shell startup file
+: 1734547368:0;YTFZF_SYSTEM_ADDONS_DIR will point to /usr/local/share/ytfzf/addons even if you set PREFIX to something else\
+If you use a different prefix, it would be smart to export YTFZF_SYSTEM_ADDONS_DIR to $PREFIX/share/ytfzf/addons
+: 1734548650:0;ytfzf -h
+: 1734555202:20;paru ueberzug
+: 1734555385:114;ytfzf -l ytfzf
+: 1734555506:57;ytfzf -t ytfzf
+: 1734548312:95;ytfzf -t prorok zachari√ÉÅ≈ÉÅ
+: 1734548430:71;ytfzf -d prorok zachari√ÉÅ≈ÉÅ
+: 1734551648:41;ytfzf -t -l
+: 1734554564:60;ytfzf
+: 1734554656:134;ytfzf -d prorok zachari√ÉÅ≈ÉÅ jablonec
+: 1734559793:0;pacman -Q
+: 1734557021:55;nvim grep.txt
+: 1734557606:40;paru yewtube
+: 1734557664:0;yewtube
+: 1734633540:252;nvim
+: 1734783117:193;sudo find /mnt/drive_go/ -type f > /home/alexpad/drive_vypis.txt\
+
+: 1734815853:301;git clone https://github.com/OpenBB-finance/OpenBB.git
+: 1734816740:0;cd OpenBB
+: 1734816826:0;cd cli
+: 1734816944:0;./cli.py
+: 1734816951:0;sh cli.py
+: 1734816965:0;pip install openbb
+: 1734817018:0;pipx install xyz
+: 1734817119:5;sudo -S python-xyz
+: 1734817168:0;sudo -S python
+: 1734817683:0;y
+: 1734807974:0;btop
+: 1734864576:0;sudo -Syu
+: 1734866043:25;paru sound convert
+: 1734866475:44;paru HandBrake
+: 1734866523:0;clear
+: 1734866642:1;paru neubuter
+: 1734866922:0;neofetch
+: 1734867098:15;paru mystiq
+: 1734867135:8;sudo pacman -R mystiq
+: 1734867288:139;paru newsboat
+: 1734867464:9;paru spotify
+: 1734867486:68;sudo pacman -S spotify
+: 1734869244:0;sh bashmount
+: 1734874664:0;paru imagemagic
+: 1734875629:0;yazi --clear --cache
+: 1734875640:0;yazi--clear--cache
+: 1734875650:0;yazi --clear--cache
+: 1734876186:0;neovim
+: 1734876194:0;neovim -v
+: 1734876305:0;vim
+: 1734878332:17;paru w3m
+: 1734880984:1014;nvim aa.txt
+: 1734882022:0;yt
+: 1734892989:0;ls -lh
+: 1734893894:0;cd flavors
+: 1734893903:2;ya pack -a tkapias/moonfly.yazi
+: 1734893054:0;j yazi
+: 1734893107:334;ya pack -a tkapias/nightfly.yazi
+: 1734893524:1;ya pack -a yazi-rs/flavors:catppuccin-frappe
+: 1734893667:0;cd
+: 1734894411:0;history
+: 1734894425:3;yazi --clear-cache
+: 1734891515:1;ya pack -a yazi-rs/flavors:catppuccin-macchiato
+: 1734944321:10968;newsboat
+: 1734955294:0;mc
+: 1734957055:0;reboot
+: 1734961280:0;j deset
+: 1734961284:0;wine DesetiPrsty.exe
+: 1734962332:392;mocp
+: 1734964115:0;yazi
+: 1734965209:8;sudo pacman -S ranger
+: 1734965241:0;sudo pacman -R ranger
+: 1734964269:0;/user/
+: 1734964285:0;cd /user/
+: 1734964304:0;cd usr
+: 1734964314:0;cd /usr/
+: 1734964329:0;cd local
+: 1734964347:0;ls -lh .
+: 1734964365:0;cd bin
+: 1734967363:0;git clone git clone https://github.com/dracula/ranger.git\
+
+: 1734967381:0;[200~git clone https://github.com/dracula/ranger.git
+: 1734967831:1;git clone https://github.com/dracula/ranger.git\
+
+: 1734968422:1;git clone https://github.com/dracula/xresources.git\
+
+: 1734968475:59;nvim .Xresources
+: 1734969475:0;cd ~/.config/ranger/plugins
+: 1734969491:0;git clone https://github.com/SL-RU/ranger_udisk_menu
+: 1734969753:0;j ranger
+: 1734969781:17;nvim commands.py
+: 1734969984:0;su
+: 1734971936:0;paru ranger
+: 1734983152:0;cd /usr/local/bin/
+: 1734983926:287;sudo pacman -Syu
+: 1734984606:194;pacseek
+: 1734984804:0;https://github.com/ranger/ranger.git
+: 1734984922:22;git clone https://github.com/ranger/ranger.git
+: 1734985021:0;ls
+: 1734985027:0;cd ranger
+: 1734985031:1;sudo python setup.py install --optimize=1 --record=install_log.txt
+: 1734985043:25;ranger
+: 1734985420:0;exit
+: 1734985542:120;ranger
+: 1734985666:0;su
+: 1734986029:14;sudo pacman -Syu
+: 1734986184:0;ranger
+: 1734987726:0;mocp
+: 1734994572:0;moc -T orpheus
+: 1734994593:0;mocp -h
+: 1734994628:0;moc -T theme orpheus
+: 1734994640:0;mocp -T theme orpheus
+: 1734994741:0;cd .moc
+: 1734994746:0;mocp -T orpheus
+: 1734994813:0;cd
+: 1734995684:280;ranger
+: 1734995978:0;mocp -T
+: 1734995984:20;mocp -T orpheus
+: 1734996057:18;mocp -T nes
+: 1734996084:0;mocp -i
+: 1734996097:0;mocp -k
+: 1734996107:0;mocp -C
+: 1734996460:0;mocp
+: 1734996639:0;mocp -M
+: 1734996647:175;mocp -m
+: 1735030586:31;sudo pacman -Syu
+: 1735030659:0;reboot
+: 1735034936:227;mocp
+: 1735035853:1307;sh bashmount
+: 1735037278:0;sh
+: 1735037991:0;q
+: 1735038247:12;sh bashmount
+: 1735051908:18;paru gsmart
+: 1735052376:22;paru Smartmontools
+: 1735053286:17;paru Sysbench
+: 1735053398:10;sysbench --test=cpu run

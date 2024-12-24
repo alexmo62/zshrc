@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/alexpad/Obrázky/wallpaper/africa-slunce.jpg' 
